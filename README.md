@@ -1,2 +1,2 @@
-# Debian:jessie
-docker file build for debian:jessie
+# debian 
+Dockerfile build for debian.
